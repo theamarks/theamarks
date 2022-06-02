@@ -19,7 +19,7 @@ I currently contribute to the open science community by improving tools to give 
 
 ### 🎓 Education
 - Master of Science; Biology/Marine Ecology 🦪 (Cal State Fullerton)
-- Bachelor of Science; Enivronmental Science 💦 (University of New Hampshire)
+- Bachelor of Science; Environmental Science 💦 (University of New Hampshire)
 
 <!--
 **theamarks/theamarks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
