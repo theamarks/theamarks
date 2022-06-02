@@ -1,9 +1,11 @@
-<h1 align="center"> Hello! 🏔️ I'm Althea Marks </h1>
+<h1 align="center"> Hello! 🔆 I'm Althea Marks </h1>
 
 <h3 align="center"> Data Science Fellow @ Arctic Data Center </h3>
 <br>
 
-### How do I spend my time?
+### ⏳ How do I spend my time?
+
+I currently contribute to the open science community by improving tools to give credit to people who create and openly share datasets. I am improving ([tools](https://github.com/theamarks/scythe)) to search for and record dataset citations in digital libraries. Tracing dataset citations allows data creators to recieve credit for their contributions and understand how their data is reused. 
 
 ### Experience 
 
@@ -11,11 +13,9 @@
 - 2021: Environmental Science Data Manager ([Synectics](https://synectics.net/public/framework/bannerhtml.aspx?dsn=systm&idhtml=334&banner=synectics_home.png&title=Synectics%20Environmental%20Data%20Services)
 - 2018 - 2020: Restoration Database Analyst ([NOOC](https://olympiaoysternet.ucdavis.edu/))
 - 2016 - 2020: Graduate Research Assistant ([Zacherl Lab](https://zacherllab.com/))
-- 2015: Volunteer Researcher ([Natural Capital Project](https://naturalcapitalproject.stanford.edu/))
-- 2014 - 2015: Fisheries Technician ([Powers Lab](https://www.disl.edu/research/fisheries-ecology-research))
-- 2008 - 2011: Water Quality Technician ([UNH Water Quality Analysis Lab](https://wrrc.unh.edu/unh-water-quality-analysis-laboratory)
+- There's more ...
 
-### Education
+### 🎓 Education
 - 2020: Master of Science; Biology (Cal State Fullerton)
 - 2011: Bachelor of Science; Enivronmental Science (University of New Hampshire)
 
@@ -32,4 +32,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+emoji directory: https://gist.github.com/rxaviers/7360908
 -->
