@@ -1,4 +1,4 @@
-### Howdy 🤠
+<h1 align="center"> Hello! I'm Althea Marks </h1>
 
 <!--
 **theamarks/theamarks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
