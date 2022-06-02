@@ -16,8 +16,8 @@ I currently contribute to the open science community by improving tools to give 
 - There's more ...
 
 ### 🎓 Education
-- 2020: Master of Science; Biology (Cal State Fullerton)
-- 2011: Bachelor of Science; Enivronmental Science (University of New Hampshire)
+- Master of Science; Biology (Cal State Fullerton)
+- Bachelor of Science; Enivronmental Science (University of New Hampshire)
 
 <!--
 **theamarks/theamarks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
