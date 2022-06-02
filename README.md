@@ -1,4 +1,4 @@
-<h1 align="center"> Hello! 🔆 I'm Althea Marks </h1>
+<h1 align="center"> Hello! 🔆 I'm Althea </h1>
 
 <h3 align="center"> Data Science Fellow @ Arctic Data Center </h3> 
 <br>
