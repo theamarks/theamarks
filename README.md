@@ -5,7 +5,7 @@
 
 ### 🪴 How do I spend my time?
 
-I currently contribute to the open science community by improving tools to give credit to people who create and openly share datasets. I am improving an R [package](https://github.com/theamarks/scythe) to search for and record dataset citations in digital libraries. Tracing dataset citations allows data creators to recieve credit for their contributions and understand how their data is reused. 
+I currently contribute to the open science community by improving tools to give credit to people who create and openly share datasets. I am improving [an](https://english.stackexchange.com/questions/152/when-should-i-use-a-vs-an) R [package](https://github.com/theamarks/scythe) to search for and record dataset citations in digital libraries. Tracing dataset citations allows data creators to recieve credit for their contributions and understand how their data is reused. 
 
 🏗️ I'm building my skills in: API querries, writing R packages, Git, Unix shell, Shiny, webscraping, geospatial analysis & more 
 
