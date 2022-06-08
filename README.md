@@ -9,7 +9,7 @@ I currently contribute to the open science community by improving tools to give 
 
 ### 🏗️ I'm building my skills in: 
 
-API querries, writing R packages, Git, Unix shell, Shiny, webscraping, geospatial analysis & more 
+API querries, writing R packages, Git, Unix shell, Shiny, webscraping, geospatial analysis, paralell computing & more 
 
 ### 🗺️ Experience 
 
