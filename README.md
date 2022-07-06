@@ -9,7 +9,7 @@ I currently contribute to the open science community by improving tools to give 
 
 ### 🏗️ I'm building my skills in: 
 
-API querries, writing R packages, Git, Unix shell, Shiny, webscraping, geospatial analysis & more 
+API querries, writing R packages, Git, command line, Shiny, webscraping, geospatial analysis & more 
 
 ### 🗺️ Experience 
 
@@ -17,7 +17,7 @@ API querries, writing R packages, Git, Unix shell, Shiny, webscraping, geospatia
 - 2021: Environmental Science Data Manager ([Synectics](https://synectics.net/public/framework/bannerhtml.aspx?dsn=systm&idhtml=334&banner=synectics_home.png&title=Synectics%20Environmental%20Data%20Services))
 - 2018 - 2020: Restoration Database Analyst ([NOOC](https://olympiaoysternet.ucdavis.edu/))
 - 2016 - 2020: Graduate Research Assistant ([Zacherl Lab](https://zacherllab.com/))
-- There's more ...
+- There's more ... 
 
 ### 🎓 Education
 - Master of Science; Biology/Marine Ecology 🦪 (Cal State Fullerton)
