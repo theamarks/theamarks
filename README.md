@@ -9,7 +9,7 @@ I currently contribute to the open science community by improving tools to give 
 
 ### 🏗️ I'm building my skills in: 
 
-API querries, writing R packages, Git, command line, Shiny, webscraping, geospatial analysis & more 
+API querries, writing R packages, git, command line, shiny, webscraping, geospatial analysis, python, scalable computing & more 
 
 <!--
 **theamarks/theamarks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
