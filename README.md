@@ -1,6 +1,6 @@
 <h1 align="left"> Hello! 🔆 I'm Althea </h1>
 
-<h3 align="left"> Data Science Fellow @ [NSF Arctic Data Center](https://arcticdata.io/) | [NCEAS](https://www.nceas.ucsb.edu/) </h3> 
+Data Science Fellow @ [NSF Arctic Data Center](https://arcticdata.io/) | [NCEAS](https://www.nceas.ucsb.edu/)
 
 ### 🪴 How do I spend my time?
 
