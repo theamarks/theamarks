@@ -1,7 +1,6 @@
 <h1 align="left"> Hello! 🔆 I'm Althea </h1>
 
 <h3 align="left"> Data Science Fellow @ NSF Arctic Data Center </h3> 
-<br>
 
 ### 🪴 How do I spend my time?
 
