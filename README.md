@@ -4,7 +4,7 @@ Data Science Fellow @ [NSF Arctic Data Center](https://arcticdata.io/) | [NCEAS]
 
 ### 🪴 How do I spend my time?
 
-I currently contribute to the open science community by improving tools to give credit to people who create and openly share datasets. I am improving [an](https://english.stackexchange.com/questions/152/when-should-i-use-a-vs-an) R [package](https://github.com/theamarks/scythe) to search for dataset citations in databases. Attribution of datasets to their creators allows data creators and funders to receive credit for their work, understand the broader impact of sharing their data, and trace how their data is reused. 
+I am a research data analyst at the Stanford Center for Ocean Solutions where I used data to explore Illegal, Unreported, and Unregulated (IUU) fishing.
 
 ### 🏗️ I'm building my skills in: 
 
