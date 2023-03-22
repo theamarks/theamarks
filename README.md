@@ -1,10 +1,10 @@
 <h1 align="left"> Hello! 🔆 I'm Althea </h1>
 
-Data Science Fellow @ [NSF Arctic Data Center](https://arcticdata.io/) | [NCEAS](https://www.nceas.ucsb.edu/)
+Research Data Analyst @ [Stanford Center for Ocean Solutions](https://oceansolutions.stanford.edu/)
 
 ### 🪴 How do I spend my time?
 
-I am a research data analyst at the Stanford Center for Ocean Solutions where I used data to explore Illegal, Unreported, and Unregulated (IUU) fishing.
+I used data to explore Illegal, Unreported, and Unregulated (IUU) fishing.
 
 ### 🏗️ I'm building my skills in: 
 
