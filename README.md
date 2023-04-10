@@ -2,11 +2,11 @@
 
 Research Data Analyst @ [Stanford Center for Ocean Solutions](https://oceansolutions.stanford.edu/)
 
-### 🪴 How do I spend my time?
+### :fish: How do I spend my time?
 
 I use data to explore Illegal, Unreported, and Unregulated (IUU) fishing.
 
-### 🏗️ I'm building my skills in: 
+### 🪴 I'm building my skills in: 
 
 API querries, writing R packages, git, command line, shiny, webscraping, geospatial analysis, python, scalable computing & more 
 
