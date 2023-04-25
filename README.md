@@ -4,11 +4,11 @@ Research Data Analyst @ [Stanford Center for Ocean Solutions](https://oceansolut
 
 ### :fish: How do I spend my time?
 
-I use data to explore Illegal, Unreported, and Unregulated (IUU) fishing.
+I use data to explore and vizualize Illegal, Unreported, and Unregulated (IUU) fishing, and other collaborative research at Stanford Center for Ocean Solutions. 
 
 ### 🪴 I'm building my skills in: 
 
-API querries, writing R packages, git, command line, shiny, webscraping, geospatial analysis, python, scalable computing & more 
+APIs, writing R packages, git, command line, shiny, webscraping, geospatial analysis, python, scalable computing & more 
 
 <!--
 **theamarks/theamarks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
