@@ -4,7 +4,7 @@ Research Data Analyst @ [Stanford Center for Ocean Solutions](https://oceansolut
 
 ### :fish: How do I spend my time?
 
-I use data to explore and vizualize Illegal, Unreported, and Unregulated (IUU) fishing, and other collaborative research at Stanford Center for Ocean Solutions. 
+I use data to explore and vizualize Illegal, Unreported, and Unregulated (IUU) fishing, and other transdisciplinarity research at Stanford Center for Ocean Solutions. 
 
 ### 🪴 I'm building my skills in: 
 
