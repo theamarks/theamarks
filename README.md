@@ -10,7 +10,7 @@ I use data to explore and visualize Illegal, Unreported, and Unregulated (IUU) f
 
 APIs, writing R packages, machine learning, git, command line, shiny, webscraping, geospatial analysis, python, scalable computing & more 
 
-### 🗺️: I come from: 
+### 🗺️ I come from: 
 
 A background in environmental science, water quality, and marine ecology research with lots of muddy field experience. 
 
