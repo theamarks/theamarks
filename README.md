@@ -8,7 +8,7 @@ https://orcid.org/0000-0002-9370-9128
 
 ### :fish: How do I spend my time?
 
-I use data to explore and visualize Illegal, Unreported, and Unregulated (IUU) fishing, and other transdisciplinarity research at Stanford Center for Ocean Solutions. I also enjoy supporting scientists on their journeys navigating open-science, reproducibility, and data management through formal and informal conversations. 
+I use data to explore and visualize Illegal, Unreported, and Unregulated (IUU) fishing, and other transdisciplinarity research at Stanford Center for Ocean Solutions. I also enjoy supporting scientists on their journeys navigating open-science, reproducibility, and data management.
 
 ### 🪴 I'm building my skills in: 
 
