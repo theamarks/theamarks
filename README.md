@@ -11,13 +11,13 @@ https://orcid.org/0000-0002-9370-9128
 
 I use data to explore and visualize Illegal, Unreported, and Unregulated (IUU) fishing, and other transdisciplinarity research at Stanford Center for Ocean Solutions. I also enjoy supporting scientists on their journeys navigating open-science, reproducible workflows, and data management.
 
-### 🪴 I'm building my skills in: 
+### 🪴 I'm interested in: 
 
-APIs, writing R packages, machine learning, git, command line, shiny, webscraping, geospatial analysis, python, scalable computing & more 
+Machine learning, AI, APIs, writing R packages, git, command line, shiny, webscraping, software development, geospatial analysis, python, scalable computing & more 
 
 ### 🗺️ I come from: 
 
-A background in environmental science, water quality, and marine ecology research with lots of muddy and fishy field experience. 
+A background in environmental science, water quality, and marine ecology research with plenty of muddy and fishy field experience. 
 
 <!--
 **theamarks/theamarks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
