@@ -12,7 +12,7 @@ I use data to explore and visualize Illegal, Unreported, and Unregulated (IUU) f
 
 ### 🪴 I'm interested in: 
 
-Machine learning, AI, APIs, writing R packages, git, command line, shiny, webscraping, software development, geospatial analysis, python, scalable computing & more 
+Beautiful data viz, machine learning, AI, APIs, writing R packages, git, command line, shiny, webscraping, software development, geospatial analysis, python, scalable computing & more 
 
 ### 🗺️ I come from: 
 
