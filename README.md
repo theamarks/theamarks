@@ -13,11 +13,11 @@ I enjoy supporting scientists on their journeys navigating open-science, reprodu
 
 ### 🪴 I'm interested in: 
 
-Beautiful data viz, machine learning, AI, APIs, git, command line, webscraping, software development, geospatial analysis, scalable computing & more 
+Beautiful data viz, machine learning, AI, git, software development, geospatial analysis, scalable computing & more 
 
 ### 🗺️ I come from: 
 
-A background in environmental science, water quality, and marine ecology research with plenty of muddy and fishy field experience. 
+A background in environmental science, water quality, and marine ecology research with heaps of muddy and fishy field experience. 
 
 <!--
 **theamarks/theamarks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
