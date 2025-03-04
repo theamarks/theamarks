@@ -13,7 +13,7 @@ I enjoy supporting scientists on their journeys navigating open-science, reprodu
 
 ### 🪴 I'm interested in: 
 
-Beautiful data viz, machine learning, AI, git, software development, geospatial analysis, scalable computing & more 
+Beautiful data viz, machine learning, LLMs, git, software development, geospatial analysis, scalable computing & more 
 
 ### 🗺️ I come from: 
 
