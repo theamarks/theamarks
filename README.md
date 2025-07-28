@@ -7,7 +7,7 @@ I am a Data Scientist @ UW's [Seafood Globalization Lab](http://seafood-globaliz
 0000-0002-9370-9128
 </a>
 
-### :fish: We're just fish schooling together:
+### :fish: We're fish schooling together:
 
 I enjoy supporting scientists on their journeys navigating open-science, reproducible workflows, and data management.
 
