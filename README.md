@@ -2,11 +2,6 @@
 
 I am a Data Scientist @ UW's [Seafood Globalization Lab](http://seafood-globalization-lab.weebly.com/) working on the [ARTIS](https://artisdata.weebly.com/) (Aquatic Resource Trade in Species) model [here](https://github.com/Seafood-Globalization-Lab). 
 
-<a href="https://orcid.org/0000-0002-9370-9128">
-<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
-0000-0002-9370-9128
-</a>
-
 ### :fish: We're fish schooling together:
 
 I enjoy supporting scientists on their journeys navigating open-science, reproducible workflows, and data management.
